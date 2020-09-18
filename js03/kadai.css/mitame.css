@@ -1,0 +1,45 @@
+#output{
+    width:600px;
+    height: 300px;
+    overflow:auto;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+/* .hoge{
+    display: flex;
+    height: 50px;
+} */
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+#text{
+    height: 50px;
+} */
+
+ #send{
+    height: 50px;
+}
+.talk-icon img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+    border: 2px solid #fff;
+    border-radius: 50%;
+  }
+
+  .hoge{
+      display: flex;
+      margin: 10px 0;
+  }
+
+  .icon {
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+    border: 2px solid #fff;
+    border-radius: 50%;
+  }
